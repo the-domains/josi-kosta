@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Josi Kosta]]></title>
         <description><![CDATA[Josi Kosta]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/josi-kosta/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 23:11:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 23:14:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/josi-kosta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cacb4659-3c96-4753-9169-e5ecc60105d2.jpg">]]></description>
+            <link>https://thegrid.ai/josi-kosta/foodies/index.html</link>
+            <guid isPermaLink="false">590eccdb-9a7f-4da1-a41e-c2124017fc95</guid>
+            <pubDate>Tue, 15 Mar 2016 23:14:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[music]]></title>
             <description><![CDATA[<article><h1>music</h1><p>undefined</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88c5c08daad462a343e8b97bff9dfc3a47bb6515.jpg"></article>]]></description>
-            <link>undefinedmusic/index.html</link>
+            <link>https://thegrid.ai/josi-kosta/music/index.html</link>
             <guid isPermaLink="false">2894c4be-be7b-4638-903b-893d03bfc2e1</guid>
             <pubDate>Tue, 15 Mar 2016 23:11:02 GMT</pubDate>
         </item>
