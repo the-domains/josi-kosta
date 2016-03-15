@@ -1,0 +1,28 @@
+name: Josi Kosta
+favicon: null
+layout_spectrum: 0.6391357120592147
+typography_spectrum: 0.5525339799933136
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.12498665414750576
+  lightness: 0.626894416520372
+  saturation: 0.8987601278349757
+  rhythmicContrast: 0.7780293042305857
+purpose: []
