@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Josi Kosta]]></title>
+        <description><![CDATA[Josi Kosta]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 23:11:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[music]]></title>
+            <description><![CDATA[<article><h1>music</h1><p>undefined</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88c5c08daad462a343e8b97bff9dfc3a47bb6515.jpg"></article>]]></description>
+            <link>undefinedmusic/index.html</link>
+            <guid isPermaLink="false">2894c4be-be7b-4638-903b-893d03bfc2e1</guid>
+            <pubDate>Tue, 15 Mar 2016 23:11:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
